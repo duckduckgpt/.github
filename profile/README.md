@@ -4,7 +4,7 @@
 <a href="https://duckduckgpt.com">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kudoai/duckduckgpt/main/media/images/logos/ddgpt-logo-dark-mode-697x122.png">
-    <img width=747 src="https://raw.githubusercontent.com/kudoai/duckduckgpt/main/media/images/logos/ddgpt-logo-light-mode-697x122.png">
+    <img width=707 src="https://raw.githubusercontent.com/kudoai/duckduckgpt/main/media/images/logos/ddgpt-logo-light-mode-697x122.png">
 </picture>
 </a>
 
