@@ -8,7 +8,7 @@
 </picture>
 </a>
 
-### Bring the magic of ChatGPT to DuckDuckGo (powered by GPT-4!)
+### Bring the magic of ChatGPT to DuckDuckGo 🐤 (powered by GPT-4!)
 
 #### [GitHub](https://github.com/kudoai/duckduckgpt) &nbsp;/ &nbsp;[Website](https://duckduckgpt.com)
 
