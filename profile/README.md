@@ -10,10 +10,10 @@
 
 #
 
-### Bring the magic of ChatGPT to DuckDuckGo 🐤 (powered by GPT-4!)
+###  🐤 Add AI chat & search summaries to DuckDuckGo powered by the latest LLMs 
 
 #
 
-#### [GitHub](https://github.com/kudoai/duckduckgpt) &nbsp;/ &nbsp;[Website](https://duckduckgpt.com)
+#### [GitHub](https://github.com/KudoAI/duckduckgpt) &nbsp;/ &nbsp;[Website](https://www.duckduckgpt.com)
 
 </div>
