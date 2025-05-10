@@ -10,7 +10,7 @@
 
 #
 
-###  🐤 Add AI chat & search summaries to DuckDuckGo powered by the latest LLMs 
+###  🐤 AI chat & search summaries in DuckDuckGo, powered by the latest LLMs
 
 #
 
